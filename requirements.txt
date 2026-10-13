@@ -32,6 +32,7 @@ ipywidgets==8.1.9
 isoduration==20.11.0
 jedi==0.20.0
 Jinja2==3.1.6
+joblib==1.6.0
 json5==0.15.0
 jsonpointer==3.1.1
 jsonschema==4.26.0
@@ -74,10 +75,12 @@ prompt_toolkit==3.0.53
 psutil==7.2.2
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pyarrow==25.0.1
 pycparser==3.0
 Pygments==2.21.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.3
 python-json-logger==4.2.0
 PyYAML==6.0.3
 pyzmq==27.2.0
@@ -87,12 +90,14 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rpds-py==2026.6.3
-seaborn==0.13.2
+scikit-learn==1.9.1
+scipy==1.18.1
 Send2Trash==2.1.0
 six==1.17.0
 soupsieve==2.9.2
 stack-data==0.6.3
 terminado==0.18.1
+threadpoolctl==3.7.0
 tinycss2==1.5.1
 tornado==6.5.8
 traitlets==5.16.1
